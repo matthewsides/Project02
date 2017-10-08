@@ -1,0 +1,71 @@
+#include <iostream>
+
+#include <cstdlib>
+
+#include <ctime>
+
+#include <string>
+
+using namespace std;
+
+
+
+
+int main()
+
+{ 
+  int balance = 500;
+
+do{
+  string input = "";
+	srand(time(NULL)); //seed random number generator
+	// the variable num will store the rand function between the numbers of 6 and 1
+	// % is a modulo operation, which finds the remainder after division of one number by another
+  int num1=rand() % 6 + 1; // random number between 1 and 6 
+  int num2=rand() % 6 + 1; // random number between 1 and 6 
+  int	card1 = num1;
+  int	card2 = num2;
+	cout <<"Current Balance:" ;
+	cout <<balance ;
+	cout <<"\n\n";
+// cout essentially stands for console output (outputing the code in the speech marks which are defined as string)
+	cout <<card1 ;
+	// \n essentially seperates the characters or string onto the next lines (spacing)
+	cout <<"\n\n";
+	cout<< "Higher or Lower";
+	cin >> input;
+
+	cout <<"\n\n";
+  cout <<card2 ;
+  cout <<"\n\n"; 
+  {
+  if (input == "Higher" or input == "higher") 
+    if (card2 > card1)
+      balance = balance + 100;
+      
+      else 
+        balance = balance - 100;
+    
+}
+  
+ { 
+  if (input == "Lower" or input == "lower")
+    if (card2 < card1)
+      balance = balance + 100;
+      
+     else 
+     balance = balance - 100;
+      
+      
+        
+
+}
+// could use system clear to clear the screen but the system() function calls system-specific functions, which makes the program less portable (essentially a resource heavy function and a security hole).
+// causes the output to be printed 15 lines below the previous( my solution to ensure that the screen doesnt get cluttered).
+cout << string(15, '\n');  
+}
+//while (balance <= 1000 && balance >= 0);
+while (balance < 1000 && balance > 0);
+
+
+}
