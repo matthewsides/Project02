@@ -20,13 +20,11 @@
 
 
 
-<img src="Project01/FlowChartP1.jpg" alt="Project1"
-     title="Project1" />
+<img src="Project02/FlowChartP2.jpg" alt="Project2"
+     title="Project2" />
 
 ### High Level Description 
-
-A non-playing character NPC (that is a character controlled by the computer) targets the users mouse position as the player moves across the screen, the game is over once the NPC touches the players mouse position 3 times. 
-
+A Higher or lower card game based around playing cards being the aesthetic, allowing a user to be given a card or value then guessing whether the next value will be higher or lower in conjunction or comparision to the initial value. If the user is correct in their assumption they are to be visual awarded somehow or notified whether they were right or wrong.
 
 ### Algorithm - (Flowchart)
 
