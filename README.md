@@ -2,8 +2,6 @@
 
 # Project Brief
 
-# Project01
-
 ### Project Back Log
 
 | User Story  | Description                  | Points | Due Date | Mo | Tu | We | Th | Fr |
@@ -38,7 +36,8 @@ For the conditions a variable was defined holding a pre-set value, in which the 
 
 ### Description of IDE used and features it provided
 
-The IDE ( Integrated Development Environment) used was repl.it, the features it provided consisted of 
+The IDE ( Integrated Development Environment) used was repl.it, the features it provided consisted of a debugger (find problems), compiler (run the code), explorer (find files), source editor (text editor),form builder, data dictionary, data file viewer.
+
 ### Debugging process and debugging facilities in your chosen IDE
 
 The IDE or notepad does not have any debugging facilities,but the debugging proccess has to be done manually either scrolling through code to locate and fix the problem or using preset code that is indented into the program and debugs the code, finding the problem for it to be solved (fixed).
