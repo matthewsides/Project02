@@ -30,12 +30,12 @@ A Higher or lower card game based around playing cards being the aesthetic, allo
 
 ### Process of implementation Algorithm
 
-The program was initially broken down into segments, the first proccess consisitng of getting a random number
+The program was initially broken down into segments, the first proccess consistng of getting a random number, using said random number as a representation of the first or initial card intended to be given to the user. The random number function or generator once implemented was intended to be used for multiple uses thus two variables were created to store both the initial and final number.
+Though before the second number was printed a user input question linked to cin (console input) was applied, furthermore multiple conditional statements checking as to whether the input is corresponding to the pre-set inputs (higher or lower), else re loop, which extends onto the next implementation or proccess a loop using while, for and do loops to continue to loop the game until predetermined or acceptable input is retrieved
 
 ### Description of IDE used and features it provided
 
-The IDE ( Integrated Development Environment) used was notepad, though notepad is a questionable IDE as it has no redefining features and doesnt provide any comprehensive facilities except an area to write code and save the file in relation to the type of code written.
-
+The IDE ( Integrated Development Environment) used was repl.it, the features it provided consisted of 
 ### Debugging process and debugging facilities in your chosen IDE
 
 The IDE or notepad does not have any debugging facilities,but the debugging proccess has to be done manually either scrolling through code to locate and fix the problem or using preset code that is indented into the program and debugs the code, finding the problem for it to be solved (fixed).
