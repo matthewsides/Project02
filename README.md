@@ -40,4 +40,4 @@ The IDE ( Integrated Development Environment) used was repl.it, the features it 
 
 ### Debugging process and debugging facilities in your chosen IDE
 
-The IDE or notepad does not have any debugging facilities,but the debugging proccess has to be done manually either scrolling through code to locate and fix the problem or using preset code that is indented into the program and debugs the code, finding the problem for it to be solved (fixed).
+The Debugging proccess consisted of using the facilities given by the IDE which was to print errors as to what was wrong and pointing me into the direction as to what line or lines were incorrectly coded or were causing problems. Thus once re-directed to the line after reading the feedback given a response was given as to whether I should alter the code directly or if more research is needed.
