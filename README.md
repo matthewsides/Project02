@@ -173,7 +173,11 @@ Control structures essentially relating to if, for, while, switch, etc. Here is 
 
 ![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/controlstatementif.png?raw=true "Optional Title")
 
+#### Line Length and wrapping
 
+The ideology was used whilst developing the project that conditions (conditional statements) should not be wrapped into multiple lines.
+
+Whilst the code was set to not be over 80-100 chracters per line, ensuring that the code is clear and does not overlap onto the next segment (section) or line.
 
 
 
