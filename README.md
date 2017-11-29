@@ -151,5 +151,27 @@ coding standards are version-independent and "always-current". All new code shou
 
 #### Indenting and Whitespace
 
-The indentation in the project uses indentation when nesaccary to show what is a sub-set or sub-servant of what, this is particularly shown within the conditional statements.
+The indentation in the project uses indentation when nesaccary to show what is a sub-set or sub-servant of what, this is particularly shown within the conditional statements and under the loops.
+
+if (input == "Higher" or input == "higher") 
+    if (card2 > card1)
+      balance = balance + 100;
+      
+      else 
+        balance = balance - 100;
+    
+}
+  
+ { 
+  if (input == "Lower" or input == "lower")
+    if (card2 < card1)
+      balance = balance + 100;
+      
+     else 
+     balance = balance - 100;
+      
+      
+        
+
+}
 
