@@ -58,10 +58,39 @@ Things that have been discussed in a meeting are presented in this document with
 Things that have not been offically agreed on but which are suggested by the author are presented with asterisks, like this (*),being marked as omitted until it has been agreed upon that it may be of use or implemented.
 
 
+### [4] Research
 
-# Project Brief
+This segment marks 
 
-### Project Back Log
+### [5] References
+
+N/A
+
+### [6] Target System
+The Higher or Lower application will be produced for the following platforms: Windows all versions running on the command line, written in C++ using the IDE repl.it (online IDE). This Documentation is primary concerned with the command line and functionality aspect though maybe expanded and rebooted to make the game more graphically adept and functional in browsers or as its own seperate program.
+
+### [7] Specification 
+
+A Higher or lower card game based around playing cards being the aesthetic, allowing a user to be given a card or value then guessing whether the next value will be higher or lower in conjunction or comparision to the initial value. If the user is correct in their assumption they are to be visual awarded somehow or notified whether they were right or wrong.
+
+### [8] High Level Function Requirements
+
+
+### [9] High Level Non-Functional Requirements
+
+
+
+### [10] User Stories
+
+As a user i would like to be able to see a number on the screen. -  see number representation
+As a user i would like to be able to get allocated a virtual amount of currency. - get allocated a virtual amount
+As a user i would like to be able to get given a card. - get given card
+As a user i would like to be able to input whether the next card is higher or lower than the card I already have. - input higher or lower   
+As a user i would like to be able to get feedback as to whether I was right or wrong. - get feedback 
+As a user i would like to be able to see the allocated virtual currency number change either going up or down.- see allocated number change
+
+
+### [11] Project Back Log
 
 | User Story  | Description                  | Points | Due Date | Mo | Tu | We | Th | Fr |
 |-------------|------------------------------|--------|----------|----|----|----|----|----|
@@ -69,21 +98,17 @@ Things that have not been offically agreed on but which are suggested by the aut
 | 2           | get allocated virtual amount | 3      | July     |    |    |    |    |    |
 | 3           | get given card  (value)      | 5      | July     |    |    |    |    |    |
 | 4           | input higher or lower        | 4      | July     |    |    |    |    |    |
-| 5           | get feedback (Feedback)      | 2      | July     |    |    |    |    |    |
+| 5           | get feedback                 | 2      | July     |    |    |    |    |    |
 | 6           | see allocated number change  | 3      | July     |    |    |    |    |    |
 | Total Points| 19                           |
 
 
 
-
+### [12] Algorithm - (Flowchart)
 
 <img src="Project02/FlowChartP2.jpg" alt="Project2"
      title="Project2" />
-
-### High Level Description 
-A Higher or lower card game based around playing cards being the aesthetic, allowing a user to be given a card or value then guessing whether the next value will be higher or lower in conjunction or comparision to the initial value. If the user is correct in their assumption they are to be visual awarded somehow or notified whether they were right or wrong.
-
-### Algorithm - (Flowchart)
+     
 
 ### Process of implementation Algorithm
 
