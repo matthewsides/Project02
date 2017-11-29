@@ -1,5 +1,64 @@
 ![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/higherorlowerlogop2.png?raw=true "Optional Title")
 
+| Version 1.01    |
+|-----------------|
+| 28 November 2017|
+
+
+# Revision List
+
+| Version     | Author          | Date                 | Comments                       |
+|-------------|-----------------|----------------------|--------------------------------|
+| 1.00        |  Matthew Sides  |              2017    | Initial Version                |
+| 1.01        |  Matthew Sides  |              2017    |                                | 
+|             |                 |                      |                                | 
+|             |                 |                      |                                |
+|             |                 |                      |                                |
+|                                                                                       |                         
+
+
+# Table Of Contents
+
+[1] Introduction 
+
+[2] Scope
+
+[3] Type Conventions
+     
+[4]  Research
+
+[5] References 
+
+[6] Target System 
+
+[7] Specification 
+
+[8]  High Level Non-Functional Requirements
+
+[9] High Level Functional Requirements
+
+[10] User Stories
+
+[11] Project Backlog
+
+[12] Flow Chart
+
+### [1] Introduction
+
+This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “Higher or Lower” . It is based on elements found within a given brief specifying for a game based around the popular card guessing game Higher or Lower. 
+
+### [2] Scope
+
+This documentation is intended to be read by programmers, artists and producers involved in the design implementation and testing of the HTML internet game "Higher or Lower".
+
+### [3] Type Conventions
+
+Things that have been discussed in a meeting are presented in this document with no asterisks.
+
+Things that have not been offically agreed on but which are suggested by the author are presented with asterisks, like this (*),being marked as omitted until it has been agreed upon that it may be of use or implemented.
+
+
+
 # Project Brief
 
 ### Project Back Log
