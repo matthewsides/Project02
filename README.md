@@ -90,12 +90,17 @@ A Higher or lower card game based around playing cards being the aesthetic, allo
 
 ### [10] User Stories
 
-As a user i would like to be able to see a number on the screen. -  see number representation
-As a user i would like to be able to get allocated a virtual amount of currency. - get allocated a virtual amount
-As a user i would like to be able to get given a card. - get given card
-As a user i would like to be able to input whether the next card is higher or lower than the card I already have. - input higher or lower   
-As a user i would like to be able to get feedback as to whether I was right or wrong. - get feedback 
-As a user i would like to be able to see the allocated virtual currency number change either going up or down.- see allocated number change
+As a user i would like to be able to see a number on the screen. -  see number representation.
+
+As a user i would like to be able to get allocated a virtual amount of currency. - get allocated a virtual amount.
+
+As a user i would like to be able to get given a card. - get given card.
+
+As a user i would like to be able to input whether the next card is higher or lower than the card I already have. - input higher or lower.   
+
+As a user i would like to be able to get feedback as to whether I was right or wrong. - get feedback.
+
+As a user i would like to be able to see the allocated virtual currency number change either going up or down.- see allocated number change.
 
 
 ### [11] Project Back Log
