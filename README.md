@@ -1,4 +1,4 @@
-![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/higherorlowerlogo.png?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/higherorlowerlogop2.png?raw=true "Optional Title")
 
 # Project Brief
 
