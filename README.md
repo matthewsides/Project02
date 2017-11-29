@@ -187,6 +187,17 @@ The functions in the project were called with no spaces between the function nam
 
 
 
+#### Quotes
+
+There wasnt really a standard for the use of single quotes and double quotes though in the project (within each module) there was an attempt to keep a certain amount of consistency.
+
+#### Comments
+
+There isnt a particular standard to commenting other than ensuring that the comments are clear and concise, the amount of characters a comment may exceed is not set though it is recommended and was attempted to keep the comments to either one or two lines.
+
+![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/codefunctioncalls.png?raw=true "Optional Title")
+
+#### Naming Conventions
 
 
 
