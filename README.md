@@ -1,4 +1,4 @@
-# Project02
+![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/higherorlowerlogo.png?raw=true "Optional Title")
 
 # Project Brief
 
