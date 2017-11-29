@@ -167,4 +167,18 @@ Put a space between the (type) and the variable in a cast: (int) variablename.
 
 ![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/casting.png?raw=true "Optional Title")
 
+#### Control Structures
+
+Control structures essentially relating to if, for, while, switch, etc. Here is a sample if statement with else u sed in the project and a do/while encasing the if statement (though not visible in the below screen shot since it evelopes the whole code not just the below snippet):
+
+![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/controlstatementif.png?raw=true "Optional Title")
+
+
+
+
+
+
+
+
+
 
