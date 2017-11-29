@@ -149,7 +149,7 @@ The Debugging proccess consisted of using the facilities given by the IDE which 
 
 ### [17] Coding Standard
 
-coding standards are version-independent and "always-current". All new code should follow the current standards, regardless of (core) version. Existing code in older versions may be updated, but doesn't necessarily have to be.  The coding standards applied for this particular project are similiar to those used by Drupal (Drupals coding standards).
+Coding standards are version-independent and "always-current". All new code should follow the current standards, regardless of (core) version. Existing code in older versions may be updated, but doesn't necessarily have to be.  The coding standards applied for this particular project are similiar to those used by Drupal (Drupals coding standards).
 
 #### Indenting and Whitespace
 
