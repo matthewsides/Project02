@@ -179,6 +179,11 @@ The ideology was used whilst developing the project that conditions (conditional
 
 Whilst Lines containing longer function names, function/class definitions, variable declarations, etc were not allowed to exceed 80 characters. Though conditiona; statements may as long as its purpose is conveyed or portrayed clearly.Furthermore comments are allowed to exceed the limit, though must be moderated still to ensuring the code is not impossible to locate as it is overwritten and encased in comments. 
 
+#### Function Calls
+
+The functions in the project were called with no spaces between the function name, the opening parenthesis, and the first parameter; spaces between commas and each parameter, and no space between the last parameter, the closing parenthesis, and the semicolon. Here's an example in the project code:
+
+![Alt text](https://https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/functioncalls.png?raw=true "Optional Title")
 
 
 
