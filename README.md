@@ -53,6 +53,8 @@
 
 [17] Coding Standard 
 
+[18] Code evaluation
+
 ### [1] Introduction
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “Higher or Lower” . It is based on elements found within a given brief specifying for a game based around the popular card guessing game Higher or Lower. 
@@ -207,6 +209,8 @@ Variables should be named using lowercase, and words should be separated either 
 
 ![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/codenameconventions.png?raw=true "Optional Title")
 
+
+### [18] Code evaluation
 
 
 
