@@ -51,6 +51,8 @@
 
 [16] Debugging process and debugging facilities in your chosen IDE
 
+[17] Coding Standard 
+
 ### [1] Introduction
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “Higher or Lower” . It is based on elements found within a given brief specifying for a game based around the popular card guessing game Higher or Lower. 
@@ -142,3 +144,12 @@ The Intergrated Development Enviroment or IDE for short (acronym) used in the de
 ### [16] Debugging process and debugging facilities in your chosen IDE
 
 The Debugging proccess consisted of using the facilities given by the IDE which was to print errors as to what was wrong and pointing me into the direction as to what line or lines were incorrectly coded or were causing problems. Thus once re-directed to the line after reading the feedback given a response was given as to whether I should alter the code directly or if more research is needed.
+
+### [17] Coding Standard
+
+coding standards are version-independent and "always-current". All new code should follow the current standards, regardless of (core) version. Existing code in older versions may be updated, but doesn't necessarily have to be. 
+
+#### Indenting and Whitespace
+
+The indentation in the project uses indentation when nesaccary to show what is a sub-set or sub-servant of what, this is particularly shown within the conditional statements.
+
