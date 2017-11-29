@@ -177,8 +177,7 @@ Control structures essentially relating to if, for, while, switch, etc. Here is 
 
 The ideology was used whilst developing the project that conditions (conditional statements) should not be wrapped into multiple lines.
 
-Whilst the code was set to not be over 80-100 chracters per line, ensuring that the code is clear and does not overlap onto the next segment (section) or line.
-
+Whilst Lines containing longer function names, function/class definitions, variable declarations, etc were not allowed to exceed 80 characters. Though conditiona; statements may as long as its purpose is conveyed or portrayed clearly.Furthermore comments are allowed to exceed the limit, though must be moderated still to ensuring the code is not impossible to locate as it is overwritten and encased in comments. 
 
 
 
