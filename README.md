@@ -154,3 +154,11 @@ coding standards are version-independent and "always-current". All new code shou
 The indentation in the project uses indentation when nesaccary to show what is a sub-set or sub-servant of what, this is particularly shown within the conditional statements and under the loops.
 
 ![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/codeindentation.png?raw=true "Optional Title")
+
+Moreover the new line function (\n) was used to avoid the verbose "\ No newline at end of file" patch warning, whilst also making the file easier to read as using the clear command for the command console was not practical or robust.
+
+#### Operators
+
+All binary operators (operators that come between two values), such as +, -, =, !=, ==, >, etc.(should) have a space before and after the operator, for readability. 
+
+
