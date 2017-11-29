@@ -173,7 +173,7 @@ Put a space between the (type) and the variable in a cast: (int) variablename.
 
 #### Control Structures
 
-Control structures essentially relating to if, for, while, switch, etc. Here is a sample if statement with else u sed in the project and a do/while encasing the if statement (though not visible in the below screen shot since it evelopes the whole code not just the below snippet):
+Control structures essentially relating to if, for, while, switch, etc. Here is a sample if statement with else used in the project and a do/while encasing the if statement (though not visible in the below screen shot since it evelopes the whole code not just the below snippet):
 
 ![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/controlstatementif.png?raw=true "Optional Title")
 
@@ -212,6 +212,10 @@ Variables should be named using lowercase, and words should be separated either 
 
 ### [18] Code evaluation
 
-The code integral structure follows through or uses the coding standard's to clearly show as to how the code may function before the code is compiled and outputted, using indentation to clearly emphasis as to what is a sub-set of what, this metholodgy can be  particular seen in the conditional statements. Furthermore casting was also applied in the development to improve the structure and make the source code easier to read. 
+The code integral structure follows through or uses the coding standard's to clearly show as to how the code may function before the code is compiled and outputted, using indentation to clearly emphasis as to what is a sub-set of what, this metholodgy can be  particular seen in the conditional statements. 
+
+Furthermore casting is also applied in the development to improve the structure and make the source code easier to read.  Inaddition the code also uses binary operators (operators that come between two values), such as +, -, =, !=, ==, >, etc. which should all have space's before and after the operator, thus improving the readability, though in this instance there are two equals operators that have not been spaced and therefore for future reference need to be fixed.  
+
+The overall code structure is fairly sound with a slight indentation problem on two lines and two equals requiring spacing before and after the operator, moreover the charcteristics or features of the code on glance, hypothetically and in theory through viewing seem to function (the code has already been tested, this is based around not having tested it before and it being the first time looking at the code) , though the underlying problem with the code is that there is no option as to if a random number encountered is the same as the next generated number instead opting to just remove the currency, whilst the code doesnt seem robust or secure as there is no feature or failsafe for if a user types in erroneous input. 
 
 
