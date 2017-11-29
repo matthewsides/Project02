@@ -43,6 +43,14 @@
 
 [12] Flow Chart
 
+[13] Process of implementation Algorithm
+
+[14] Description of IDE used and features it provided
+
+[15] Logic Behind the IDE used in project 2
+
+[16] Debugging process and debugging facilities in your chosen IDE
+
 ### [1] Introduction
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “Higher or Lower” . It is based on elements found within a given brief specifying for a game based around the popular card guessing game Higher or Lower. 
@@ -110,7 +118,7 @@ As a user i would like to be able to see the allocated virtual currency number c
      title="Project2" />
      
 
-### Process of implementation Algorithm
+### [13] Process of implementation Algorithm
 
 The program was initially broken down into segments, the first proccess consistng of getting a random number, using said random number as a representation of the first or initial card intended to be given to the user. The random number function or generator once implemented was intended to be used for multiple uses thus two variables were created to store both the initial and final number.
 Though before the second number was printed a user input question linked to cin (console input) was applied, furthermore multiple conditional statements checking as to whether the input is corresponding to the pre-set inputs (higher or lower), else re-loop, which extends onto the next implementation or proccess a loop using while, for and do loops to continue to loop the game until predetermined or acceptable input is retrieved.The second variable then came into play setting the basics into fruition as once input is given another random number seperate to the previous one is displayed.If one of the conditions is met either the program re-loops for more input or states that the user has either won or lost. Thereafter the game loops no matter the outcome the next line of printed words were set to be printed 15 lines down to stop the console from getting cluttered and create the illusion of the game updating (refreshing). Once the higher or lower game structure was formed an end setting or end condition (event) was incorparted in the form of virtual money and two bars in which to aspire to get too or not, one leading to the user winning the game, the other seeing the user lose. The win condition in this instance consists of getting a numerical value of 1000 in the money, whilst the lose condition was geting under 0 (Value).
@@ -118,14 +126,14 @@ Though before the second number was printed a user input question linked to cin 
 For the conditions a variable was defined holding a pre-set value, in which the variable was printed continously during every refresh to show the change in numerical value. Moreover within the if statements and conditinal statements underneath depending on the situation or instance a 100 numerical value was subtracted or added.
 
 
-### Description of IDE used and features it provided
+### [14] Description of IDE used and features it provided
 
 The IDE ( Integrated Development Environment) used was repl.it, the features it provided consisted of a debugger (find problems), compiler (run the code), explorer (find files), source editor (text editor),form builder, data dictionary, data file viewer.
 
-### Logic Behind the IDE used in project 2
+### [15] Logic Behind the IDE used in project 2
 
 The Intergrated Development Enviroment or IDE for short (acronym) used in the development as briefly covered above was repl.it, the reasoning behind this is due to the ability to link the code directly to a Github repository or storage and consistently save the code and the coding language required (C++) being compatible with the IDE. Whilst the inclusion of two seperate windows that enable real time usage being able to test and view the outcome without having to use another program or go into another window was a turning point in the decision as to which IDE should be used to develop project 2 (Higher or Lower Application). 
 
-### Debugging process and debugging facilities in your chosen IDE
+### [16] Debugging process and debugging facilities in your chosen IDE
 
 The Debugging proccess consisted of using the facilities given by the IDE which was to print errors as to what was wrong and pointing me into the direction as to what line or lines were incorrectly coded or were causing problems. Thus once re-directed to the line after reading the feedback given a response was given as to whether I should alter the code directly or if more research is needed.
