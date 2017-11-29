@@ -195,7 +195,7 @@ There wasnt really a standard for the use of single quotes and double quotes tho
 
 There isnt a particular standard to commenting other than ensuring that the comments are clear and concise, the amount of characters a comment may exceed is not set though it is recommended and was attempted to keep the comments to either one or two lines.
 
-![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/codefunctioncalls.png?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/codecomments.png?raw=true "Optional Title")
 
 #### Naming Conventions
 
