@@ -212,6 +212,6 @@ Variables should be named using lowercase, and words should be separated either 
 
 ### [18] Code evaluation
 
-
+The code integral structure follows through or uses the coding standard's to clearly show as to how the code may function before the code is compiled and outputted, using indentation to clearly emphasis as to what is a sub-set of what, this metholodgy can be  particular seen in the conditional statements. Furthermore casting was also applied in the development to improve the structure and make the source code easier to read. 
 
 
