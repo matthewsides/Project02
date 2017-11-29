@@ -147,7 +147,7 @@ The Debugging proccess consisted of using the facilities given by the IDE which 
 
 ### [17] Coding Standard
 
-coding standards are version-independent and "always-current". All new code should follow the current standards, regardless of (core) version. Existing code in older versions may be updated, but doesn't necessarily have to be. 
+coding standards are version-independent and "always-current". All new code should follow the current standards, regardless of (core) version. Existing code in older versions may be updated, but doesn't necessarily have to be.  The coding standards applied for this particular project are similiar to those used by Drupal (Drupals coding standards).
 
 #### Indenting and Whitespace
 
@@ -160,5 +160,11 @@ Moreover the new line function (\n) was used to avoid the verbose "\ No newline 
 #### Operators
 
 All binary operators (operators that come between two values), such as +, -, =, !=, ==, >, etc.(should) have a space before and after the operator, for readability. 
+
+#### Casting 
+
+Put a space between the (type) and the variable in a cast: (int) variablename.
+
+![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/casting.png?raw=true "Optional Title")
 
 
