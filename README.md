@@ -199,6 +199,12 @@ There isnt a particular standard to commenting other than ensuring that the comm
 
 #### Naming Conventions
 
+Functions should be named using lowercase, and words should be separated with an underscore. Functions should in addition have the grouping/module name as a prefix, to avoid name collisions between modules.
+
+Variables should be named using lowercase, and words should be separated either with uppercase characters.
+
+![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/codenameconventions.png?raw=true "Optional Title")
+
 
 
 
