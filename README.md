@@ -137,6 +137,8 @@ For the conditions a variable was defined holding a pre-set value, in which the 
 
 The IDE ( Integrated Development Environment) used was repl.it, the features it provided consisted of a debugger (find problems), compiler (run the code), explorer (find files), source editor (text editor),form builder, data dictionary, data file viewer.
 
+![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/idereplit.png?raw=true "Optional Title")
+
 ### [15] Logic Behind the IDE used in project 2
 
 The Intergrated Development Enviroment or IDE for short (acronym) used in the development as briefly covered above was repl.it, the reasoning behind this is due to the ability to link the code directly to a Github repository or storage and consistently save the code and the coding language required (C++) being compatible with the IDE. Whilst the inclusion of two seperate windows that enable real time usage being able to test and view the outcome without having to use another program or go into another window was a turning point in the decision as to which IDE should be used to develop project 2 (Higher or Lower Application). 
