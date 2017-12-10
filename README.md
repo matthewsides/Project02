@@ -212,7 +212,9 @@ Variables should be named using lowercase, and words should be separated either 
 
 ### [18] Code evaluation
 
-The code integral structure follows through or uses the coding standard's to clearly show as to how the code may function before the code is compiled and outputted, using indentation to clearly emphasis as to what is a sub-set of what, this metholodgy can be  particular seen in the conditional statements. 
+The programming paradigm applied to the code or used was generally procedural, though elements of object and event driven can be seen ,  since C++ is a multi-paradigmed language, thus meaning that it supports and is compatiable with multiple paradigms. This statement being further supported as event driven programming supports all languages, whilst object orientated programming is essentailly a fix for the limitations of procedural programming and therefore functions similiarly, though the implementation proccess may be different.
+
+Inaddition the codes integral structure follows through or uses the coding standard's to clearly show as to how the code may function before the code is compiled and outputted, using indentation to clearly emphasis as to what is a sub-set of what, this metholodgy can be  particular seen in the conditional statements. 
 
 Furthermore casting is also applied in the development to improve the structure and make the source code easier to read.  Inaddition the code also uses binary operators (operators that come between two values), such as +, -, =, !=, ==, >, etc. which should all have space's before and after the operator, thus improving the readability, though in this instance there are two equals operators that have not been spaced and therefore for future reference need to be fixed.  
 
