@@ -41,9 +41,9 @@
 
 [11] Project Backlog
 
-[12] Flow Chart
+[12] Process of implementation Algorithm
 
-[13] Process of implementation Algorithm
+[13] Algorithm - (Flowchart)
 
 [14] Description of IDE used and features it provided
 
@@ -121,19 +121,16 @@ As a user i would like to be able to see the allocated virtual currency number c
 
 
 
-### [12] Algorithm - (Flowchart)
-
-<img src="Project02/FlowChartP2.jpg" alt="Project2"
-     title="Project2" />
-     
-
-### [13] Process of implementation Algorithm
+### [12] Process of implementation Algorithm
 
 The program was initially broken down into segments, the first proccess consistng of getting a random number, using said random number as a representation of the first or initial card intended to be given to the user. The random number function or generator once implemented was intended to be used for multiple uses thus two variables were created to store both the initial and final number.
 Though before the second number was printed a user input question linked to cin (console input) was applied, furthermore multiple conditional statements checking as to whether the input is corresponding to the pre-set inputs (higher or lower), else re-loop, which extends onto the next implementation or proccess a loop using while, for and do loops to continue to loop the game until predetermined or acceptable input is retrieved.The second variable then came into play setting the basics into fruition as once input is given another random number seperate to the previous one is displayed.If one of the conditions is met either the program re-loops for more input or states that the user has either won or lost. Thereafter the game loops no matter the outcome the next line of printed words were set to be printed 15 lines down to stop the console from getting cluttered and create the illusion of the game updating (refreshing). Once the higher or lower game structure was formed an end setting or end condition (event) was incorparted in the form of virtual money and two bars in which to aspire to get too or not, one leading to the user winning the game, the other seeing the user lose. The win condition in this instance consists of getting a numerical value of 1000 in the money, whilst the lose condition was geting under 0 (Value).
 
 For the conditions a variable was defined holding a pre-set value, in which the variable was printed continously during every refresh to show the change in numerical value. Moreover within the if statements and conditinal statements underneath depending on the situation or instance a 100 numerical value was subtracted or added.
 
+### [13] Algorithm - (Flowchart)
+
+![Alt text](https://github.com/matthewsides/Project02-HigherorLowerGame/blob/master/H%26L_FC.png?raw=true "Optional Title")
 
 ### [14] Description of IDE used and features it provided
 
